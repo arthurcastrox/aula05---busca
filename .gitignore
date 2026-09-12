@@ -1,0 +1,2 @@
+.idea/ __pycache__/ *.pyc .venv/ venv/
+Adiciona .gitignore para excluir arquivos do PyCharm e do venv
